@@ -1,9 +1,9 @@
 hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE804%7C2MB%2Fs54177
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE306%7C5MB%2Fs26691
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%E5%BE%B7%E5%9B%BD20088
-hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE377%7C5MB%2Fs26691
+hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE377%7C66MB%2Fs26691
 hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%E5%BE%B7%E5%9B%BD54177
-hysteria://5.83.129.153:20088/?insecure=1&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE555%7C4MB%2Fs20088
+hysteria://5.83.129.153:20088/?insecure=1&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE555%7C33MB%2Fs20088
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE852%7C4MB%2Fs20088
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE339%7C5MB%2Fs26691
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE364%7C5MB%2Fs26691
@@ -71,8 +71,5 @@ hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&up
 https://3085fcf8-a69c-11ec-bd7c-f23c913c8d2b:3085fcf8-a69c-11ec-bd7c-f23c913c8d2b@7778ff8c-tcxds0-tnsc3a-1f0gu.se.oshuawei.com/?sni=7778ff8c-tcxds0-tnsc3a-1f0gu.se.oshuawei.com#%E7%BE%8E%E5%9B%BDhttps_a779a353
 hy2://https:%2F%2Fxship.best@starlink-ft.251313.xyz:443/?insecure=1&sni=xship.top#%E7%BE%8E%E5%9B%BDhy2_da628814
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr.astralweb.tech&fp=chrome&packetEncoding=xudp#NL353%7C2MB%2FsVless
-anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@bajisitan.9966690.xyz:5002/?insecure=1&sni=iosapps.itunes.apple.com&fp=chrome#PK02%7CAnyTLS
-anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@mali.9966690.xyz:5002/?insecure=1&sni=iosapps.itunes.apple.com&fp=chrome#ML02%7CAnyTLS
 anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:10050/?insecure=1&sni=iosapps.itunes.apple.com&fp=chrome#SD01%7CAnyTLS
-anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@sudan.9966690.xyz:5002/?insecure=1&sni=iosapps.itunes.apple.com&fp=chrome#SD02%7CAnyTLS
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#DE16%7Chy2
