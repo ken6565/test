@@ -7,7 +7,6 @@ hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&up
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE619%7C5MB%2Fs26691
 hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE476%7C2MB%2Fs54177
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE780%7C4MB%2Fs20088
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-chr.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr.astralweb.tech&fp=chrome&packetEncoding=xudp#NL353%7C2MB%2FsVless
 hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE480%7C2MB%2Fs54177
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE489%7C5MB%2Fs26691
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE375%7C5MB%2Fs26691
@@ -36,7 +35,6 @@ hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&up
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE396%7C5MB%2Fs26691
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE422%7C5MB%2Fs26691
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE418%7C5MB%2Fs26691
-https://3085fcf8-a69c-11ec-bd7c-f23c913c8d2b:3085fcf8-a69c-11ec-bd7c-f23c913c8d2b@7778ff8c-tcxds0-tnsc3a-1f0gu.se.oshuawei.com/?sni=7778ff8c-tcxds0-tnsc3a-1f0gu.se.oshuawei.com#%E7%BE%8E%E5%9B%BDhttps_a779a353
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE425%7C5MB%2Fs26691
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE364%7C5MB%2Fs26691
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#DE439%7C5MB%2Fs26691
@@ -71,4 +69,3 @@ hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upm
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE745%7C4MB%2Fs20088
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE735%7C4MB%2Fs20088
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#DE782%7C4MB%2Fs20088
-hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#DE16%7Chy2
